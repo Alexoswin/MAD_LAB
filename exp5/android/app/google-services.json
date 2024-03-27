@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206310916175",
+    "project_id": "auth-45d63",
+    "storage_bucket": "auth-45d63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206310916175:android:9c037663221c06cbe12a3a",
+        "android_client_info": {
+          "package_name": "com.example.exp5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhm2suf76V8BOFq5h88D96ouq_kTj31Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
